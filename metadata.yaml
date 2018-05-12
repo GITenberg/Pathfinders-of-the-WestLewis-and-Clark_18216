@@ -1,0 +1,41 @@
+_repo: Pathfinders-of-the-WestLewis-and-Clark_18216
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Laut, Agnes C.
+    aliases:
+    - Laut, Agnes C. (Agnes Christina)
+    - Laut, Agnes Christina
+    birthdate: 1871
+    deathdate: 1936
+    gutenberg_agent_id: '7761'
+    url: http://www.gutenberg.org/2009/agents/7761
+description: ''
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2006-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18216'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'La Vérendrye, Pierre Gaultier de Varennes, sieur de, 1685-1749'
+- !lcsh 'Radisson, Pierre Esprit, approximately 1636-1710'
+- !lcsh 'Northwest, Canadian -- Discovery and exploration'
+- !lcsh 'Lewis and Clark Expedition (1804-1806)'
+- !lcsh 'Mackenzie, Alexander, Sir, 1763-1820'
+- !lcsh 'Hearne, Samuel, 1745-1792'
+title: 'Pathfinders of the West
+
+  Being the Thrilling Story of the Adventures of the Men Who
+
+  Discovered the Great Northwest: Radisson, La Vérendrye,
+
+  Lewis and Clark'
+url: http://www.gutenberg.org/ebooks/18216
